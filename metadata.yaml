@@ -1,0 +1,27 @@
+_repo: Zweierlei-DenkenEin-Beitrag-zur-Physiologie-des-Denkens_22738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Büttner, August
+    alias: Buttner, August
+    gutenberg_agent_id: '25514'
+    url: http://www.gutenberg.org/2009/agents/25514
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22738'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'BF'
+- !lcsh 'Psychophysiology'
+title: 'Zweierlei Denken: Ein Beitrag zur Physiologie des Denkens'
+url: http://www.gutenberg.org/ebooks/22738
