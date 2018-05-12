@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25514'
     url: http://www.gutenberg.org/2009/agents/25514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22738#Zweierlei-DenkenEin-Beitrag-zur-Physiologie-des-Denkens
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2007-09-23'
 gutenberg_type: Text
